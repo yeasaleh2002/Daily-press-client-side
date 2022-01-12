@@ -1,3 +1,52 @@
+# Daily press
+* live website link: 
+
+# Website feature: 
+
+
+
+
+
+
+
+
+
+
+
+
+##
+# Client side description: 
+
+# total install packages: 
+1. npx create-react-app daily-press-client-side
+2. npm install react-router-dom@6
+
+
+
+## 
+# Server side description: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
